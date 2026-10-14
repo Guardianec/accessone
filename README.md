@@ -4,6 +4,8 @@ A premium personal access gateway with 24 major stages, 36 personality questions
 
 The final screen reads **bro you really did all that 💀**.
 
+Live site: **https://guardianec.github.io/accessone/**. Source: **https://github.com/Guardianec/accessone** (public so GitHub Pages can host it for free). Pushes to `main` run checks, build the static app, and deploy through `.github/workflows/deploy.yml`. No deployment secrets are required; GitHub issues a temporary deployment token.
+
 ![AccessOne desktop](docs/desktop.png)
 
 ## Run locally
